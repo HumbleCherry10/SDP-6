@@ -3,6 +3,7 @@
 **Course:** ShP-2216 Software Design Patterns  
 **Institution:** Astana IT University  
 **Format:** Individual | Java 17 | Apache Maven | JUnit 5  
+**Repository:** [https://github.com/HumbleCherry10/SDP-6](https://github.com/HumbleCherry10/SDP-6)  
 
 ---
 
